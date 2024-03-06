@@ -1,0 +1,15 @@
+{
+  "name": "kno1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faraday",
+  "license": "MIT",
+  "dependencies": {
+    "@fdy/faraday-js": "^0.1.158",
+    "deep-equal": "^2.2.3"
+  }
+}
